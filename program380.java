@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.*;
 
-interface MarvellousSort
+interface Diclare
 {
     public void Accept();
     public void Display();
@@ -10,7 +10,7 @@ interface MarvellousSort
     public void SelectionSort();
 }
 
-class Array implements MarvellousSort
+class Array implements Diclare
 {
     public int Arr[];
 
