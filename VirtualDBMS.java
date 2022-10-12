@@ -73,9 +73,9 @@ class DBMS
 					 System.out.println("Find            :where Student_name ");
 					 System.out.println("Find            :where id Student");
 					 System.out.println("Find Average    :where salary average");
-					 System.out.println("Find Average    :where salary Maximum");
-					 System.out.println("Find Average    :where salary Minimum");
-					 System.out.println("Find Average    :where salary count");
+					 System.out.println("Find maximum    :where salary Maximum");
+					 System.out.println("Find minimum    :where salary Minimum");
+					 System.out.println("Find Count    :where salary count");
 	                 System.out.println("Exit            :Exit");
 	                 System.out.println("............................................");
                 }
